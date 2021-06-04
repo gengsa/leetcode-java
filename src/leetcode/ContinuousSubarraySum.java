@@ -87,10 +87,6 @@ public class ContinuousSubarraySum {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[2];
-        System.out.println(Arrays.toString(arr));
-        System.exit(0);
-        
         var target = new ContinuousSubarraySum();
         var nums = "[23,2,4,6,7]";
         var k = 6;
