@@ -1,7 +1,6 @@
 package leetcode;
 
 import static org.junit.Assert.assertArrayEquals;
-
 import com.google.gson.Gson;
 
 public class CanEat {
